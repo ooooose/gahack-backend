@@ -60,7 +60,6 @@ https://www.figma.com/file/2RXY3CQnbLh8HpimcVFWGh/MyPortfolio?node-id=0%3A1&t=cy
 
 ## ER図
 https://drive.google.com/file/d/1ViC_v5qbkbsRj_89lyIXZxdcNGscCx6L/view?usp=sharing
-[![Image from Gyazo](https://i.gyazo.com/2642597c135738e71d10deb84c122c43.png)](https://gyazo.com/2642597c135738e71d10deb84c122c43)
 
 ## スケジュール
 ```
